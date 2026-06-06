@@ -182,3 +182,54 @@ languageButtons.forEach((button) => {
 });
 
 setLanguage(localStorage.getItem("washSneakersLanguage") || "en-GB");
+
+const revealTargets = document.querySelectorAll(
+  [
+    ".hero .eyebrow",
+    ".hero h1",
+    ".hero-lede",
+    ".hero-actions",
+    ".hero-stats div",
+    ".hero-visual",
+    ".section-heading .eyebrow",
+    ".section-heading h2",
+    ".service-grid article",
+    ".result-card",
+    ".video-copy .eyebrow",
+    ".video-copy h2",
+    ".video-copy p",
+    ".video-slot",
+    ".process-list li",
+    ".contact-section > div",
+    ".contact-actions",
+    ".site-footer span"
+  ].join(", ")
+);
+
+const motionIsReduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+revealTargets.forEach((target, index) => {
+  target.classList.add("reveal");
+  target.style.setProperty("--reveal-delay", `${(index % 4) * 80}ms`);
+});
+
+if (motionIsReduced || !("IntersectionObserver" in window)) {
+  revealTargets.forEach((target) => target.classList.add("is-visible"));
+} else {
+  const revealObserver = new IntersectionObserver(
+    (entries, observer) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("is-visible");
+          observer.unobserve(entry.target);
+        }
+      });
+    },
+    {
+      rootMargin: "0px 0px -12% 0px",
+      threshold: 0.16
+    }
+  );
+
+  revealTargets.forEach((target) => revealObserver.observe(target));
+}
