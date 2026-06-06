@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 570" role="img" aria-labelledby="title desc">
+  <title id="title">White sneaker before and after</title>
+  <desc id="desc">A split before and after cleaning result for a white sneaker.</desc>
+  <rect width="760" height="570" fill="#F7FBFD"/>
+  <rect width="380" height="570" fill="#E7EEF3"/>
+  <path d="M72 346c63 28 151 39 264 32 30-2 57 5 80 21 11 8 10 25-3 31-30 14-83 21-160 21H111c-43 0-72-15-88-46-13-25 9-72 49-59Z" fill="#D8D2C6"/>
+  <path d="M448 347c63 29 151 40 264 31 29-2 57 5 80 21 11 8 10 25-3 31-30 14-83 21-160 21H487c-43 0-72-15-88-46-13-25 9-72 49-58Z" fill="#FFFFFF"/>
+  <path d="M105 316c59-61 122-89 188-84 43 3 81 20 113 51-45 34-91 55-138 61-64 9-119-.1-163-28Z" fill="#EEE8DC"/>
+  <path d="M481 316c59-61 122-89 188-84 43 3 81 20 113 51-45 34-91 55-138 61-64 9-119-.1-163-28Z" fill="#FFFFFF"/>
+  <g fill="none" stroke-linecap="round" stroke-width="9">
+    <path d="M143 322c61 27 121 32 180 14" stroke="#8A6A4A"/>
+    <path d="M519 322c61 27 121 32 180 14" stroke="#0A4174"/>
+    <path d="M162 369h186" stroke="#70543A"/>
+    <path d="M538 369h186" stroke="#49769F"/>
+  </g>
+  <g fill="#8A6A4A" opacity=".55">
+    <circle cx="122" cy="292" r="12"/>
+    <circle cx="206" cy="353" r="9"/>
+    <circle cx="286" cy="379" r="11"/>
+    <circle cx="80" cy="391" r="8"/>
+  </g>
+  <text x="190" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="800" fill="#001D39">BEFORE</text>
+  <text x="570" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="800" fill="#001D39">AFTER</text>
+</svg>

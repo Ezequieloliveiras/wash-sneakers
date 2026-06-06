@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-labelledby="title desc">
+  <title id="title">Foam cleaning video placeholder</title>
+  <desc id="desc">A sneaker being cleaned with foam and a brush.</desc>
+  <rect width="600" height="800" fill="#BDD8E9"/>
+  <path d="M93 501c60 30 142 42 246 35 38-3 71-13 99-30 25 23 58 38 99 45 18 3 22 27 6 36-31 18-84 27-160 27H125c-43 0-71-15-86-45-14-28 13-87 54-68Z" fill="#F8FCFE"/>
+  <path d="M133 450c52-49 111-72 178-68 46 3 85 18 117 45-35 38-79 61-132 69-61 9-115-6-163-46Z" fill="#FFFFFF"/>
+  <g fill="#FFFFFF" opacity=".88">
+    <circle cx="172" cy="402" r="28"/>
+    <circle cx="224" cy="378" r="18"/>
+    <circle cx="287" cy="384" r="24"/>
+    <circle cx="343" cy="410" r="19"/>
+    <circle cx="229" cy="447" r="22"/>
+  </g>
+  <path d="M374 254l122-114" stroke="#C46A3A" stroke-width="32" stroke-linecap="round"/>
+  <path d="M330 292l74-69" stroke="#001D39" stroke-width="46" stroke-linecap="round"/>
+  <path d="M145 547h346" stroke="#001D39" stroke-width="12" stroke-linecap="round" opacity=".72"/>
+</svg>

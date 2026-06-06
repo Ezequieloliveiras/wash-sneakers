@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 570" role="img" aria-labelledby="title desc">
+  <title id="title">Daily trainer reset</title>
+  <desc id="desc">Two classic low trainers after cleaning.</desc>
+  <rect width="760" height="570" fill="#EEF6FA"/>
+  <path d="M109 323c64 25 138 34 221 28 54-4 97-17 131-39 37 40 84 65 142 75 15 3 18 23 4 30-39 20-98 29-178 29H152c-44 0-73-16-88-49-11-25 2-89 45-74Z" fill="#FFFFFF"/>
+  <path d="M133 294c57-52 119-76 185-72 45 3 85 18 120 44-43 39-94 63-151 70-55 6-106-8-154-42Z" fill="#FFFFFF"/>
+  <path d="M176 316c61 29 124 34 188 16" stroke="#111A25" stroke-width="18" stroke-linecap="round"/>
+  <path d="M197 278c61 28 123 32 185 13" stroke="#111A25" stroke-width="18" stroke-linecap="round"/>
+  <path d="M218 241c53 23 107 27 162 13" stroke="#111A25" stroke-width="18" stroke-linecap="round"/>
+  <path d="M133 394h398" stroke="#6A5742" stroke-width="24" stroke-linecap="round"/>
+  <path d="M151 414h388" stroke="#3B342D" stroke-width="9" stroke-linecap="round"/>
+  <g fill="none" stroke="#7D9CB1" stroke-width="7" stroke-linecap="round">
+    <path d="M258 226l54 70"/>
+    <path d="M311 225l48 61"/>
+    <path d="M227 267l85-45"/>
+    <path d="M256 302l100-54"/>
+  </g>
+  <text x="380" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#001D39">DAILY TRAINER RESET</text>
+</svg>

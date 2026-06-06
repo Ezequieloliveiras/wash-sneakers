@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-labelledby="title desc">
+  <title id="title">Sole whitening video placeholder</title>
+  <desc id="desc">A sneaker sole being restored.</desc>
+  <rect width="600" height="800" fill="#7BBDE8"/>
+  <path d="M94 506c62 24 144 31 247 22 48-4 88-16 121-35 27 31 62 51 104 61 13 3 16 21 4 28-34 21-91 32-171 32H129c-47 0-76-17-88-50-10-27 11-74 53-58Z" fill="#FFFFFF"/>
+  <path d="M145 462c57-54 121-80 191-78 49 1 92 16 128 44-42 40-92 66-150 77-64 13-120-2-169-43Z" fill="#F7FBFD"/>
+  <path d="M129 559h379" stroke="#001D39" stroke-width="28" stroke-linecap="round"/>
+  <path d="M178 578h282" stroke="#49769F" stroke-width="10" stroke-linecap="round"/>
+  <g fill="#EAF5FA">
+    <circle cx="185" cy="505" r="20"/>
+    <circle cx="248" cy="482" r="17"/>
+    <circle cx="312" cy="491" r="23"/>
+    <circle cx="369" cy="506" r="15"/>
+  </g>
+  <path d="M82 237c66-45 143-69 231-73 62-3 127 6 195 27" stroke="#BDD8E9" stroke-width="38" stroke-linecap="round" opacity=".8"/>
+  <path d="M133 278c82-40 177-51 285-33" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" opacity=".9"/>
+</svg>

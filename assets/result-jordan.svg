@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 570" role="img" aria-labelledby="title desc">
+  <title id="title">Statement trainer before and after</title>
+  <desc id="desc">A bold yellow trainer shown dirty and restored.</desc>
+  <rect width="760" height="570" fill="#F5F9FC"/>
+  <rect x="35" y="42" width="690" height="486" rx="8" fill="#DCEAF2"/>
+  <path d="M118 350c63 23 128 31 195 23 46-6 89-20 129-43 20 29 57 51 110 67 17 5 18 28 1 35-36 16-92 24-168 24H145c-51 0-79-18-85-55-5-31 14-68 58-51Z" fill="#C2A019"/>
+  <path d="M112 310c55-61 118-92 188-92 49 0 95 15 138 44-37 44-84 72-142 84-64 13-125 1-184-36Z" fill="#E7C631"/>
+  <path d="M298 249c30 8 54 22 72 43" stroke="#001D39" stroke-width="23" stroke-linecap="round"/>
+  <path d="M432 330c31 26 69 45 114 58" stroke="#001D39" stroke-width="25" stroke-linecap="round"/>
+  <path d="M153 400h346" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round"/>
+  <path d="M154 421h350" stroke="#001D39" stroke-width="12" stroke-linecap="round"/>
+  <g fill="#6A4D20" opacity=".42">
+    <circle cx="145" cy="283" r="14"/>
+    <circle cx="212" cy="342" r="10"/>
+    <circle cx="329" cy="225" r="12"/>
+    <circle cx="383" cy="363" r="9"/>
+  </g>
+  <path d="M94 156h572" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" opacity=".72"/>
+  <text x="380" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#001D39">COLOUR-SAFE CLEAN</text>
+</svg>
