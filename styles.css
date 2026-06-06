@@ -773,12 +773,24 @@ section {
     grid-template-columns: 1fr;
   }
 
+  .hero-stats .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+
   .hero-visual {
-    min-height: 430px;
+    min-height: 330px;
+  }
+
+  .hero .hero-visual.reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
   }
 
   .hero-sneaker {
-    width: 106%;
+    width: 98%;
   }
 
   .service-number {
