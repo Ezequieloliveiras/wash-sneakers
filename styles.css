@@ -366,7 +366,7 @@ h3 {
   background: rgba(0, 29, 57, 0.72);
 }
 
-.before-after-strip span + span {
+.before-after-strip span+span {
   color: var(--ink);
   background: rgba(189, 216, 233, 0.9);
 }
@@ -803,7 +803,9 @@ section {
   }
 
   .video-slot {
-    min-height: 300px;
+    position: relative;
+    overflow: hidden;
+    background: #001d39;
   }
 
   .contact-section {
