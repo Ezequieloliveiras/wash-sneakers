@@ -134,7 +134,7 @@ const translations = {
     resultTwoTitle: "Resgate de par especial",
     resultTwoText: "Limpeza cuidadosa para materiais coloridos e tênis premium.",
     resultThreeTitle: "Reset do tênis diário",
-    resultThreeText: "Cadarcos renovados, solas mais limpas e visual mais alinhado.",
+    resultThreeText: "Cadarços renovados, solas mais limpas e visual mais alinhado.",
     videosEyebrow: "Limpeza em ação",
     videosTitle: "Veja a limpeza acontecendo.",
     videosText: "Vídeos curtos do processo mostram cada etapa do cuidado: espuma, escovação, branqueamento de sola e resultado final.",
